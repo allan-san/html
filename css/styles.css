@@ -1,0 +1,17 @@
+body,
+html,
+header {
+    margin: 0;
+    padding: 0;
+}
+
+.center {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.horizontal {
+    display: flex;
+    flex-direction: row;
+}
